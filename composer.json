@@ -9,6 +9,6 @@
             "email": "lkeranga@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "1.1",
     "require": {}
 }
