@@ -2,13 +2,13 @@
     "name": "lkeranga/timezones",
     "description": "demo package to show time",
     "type": "library",
-    "license": "aa",
+    "license": "MIT",
     "authors": [
         {
             "name": "eranga shaman",
             "email": "lkeranga@gmail.com"
         }
     ],
-    "minimum-stability": "1.1",
+    "minimum-stability": "dev",
     "require": {}
 }
